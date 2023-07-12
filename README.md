@@ -9,7 +9,7 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 
 ## Algorithm
 1. step1
-2. 
+2. step2
 3. 
 4. 
 
